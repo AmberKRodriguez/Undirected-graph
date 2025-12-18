@@ -24,4 +24,5 @@ and a method that is called to draw edges.</li>
   <li><a href="Main.java">MAIN</a>: Class that contains the main method and the GUI including all the buttons and text fields. It should include event handlers for each of the buttons.</li>
 </ol>
 
-<img width="1000" height="500" alt="Screenshot 2025-12-16 at 12 41 48 PM" src="https://github.com/user-attachments/assets/f43461f4-eb96-46a7-8cca-f9e56360066c" />
+
+<img width="1554" height="1071" src="https://github.com/user-attachments/assets/57b34fd5-03f7-4e25-b1e2-553f9301415d" />
